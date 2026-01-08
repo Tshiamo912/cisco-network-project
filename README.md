@@ -1,2 +1,12 @@
-# cisco-network-project
-This project demonstrates a small enterprise network using Cisco Packet Tracer.
+# 🌐 Cisco Network Project
+
+🚀 A small enterprise network built in **Cisco Packet Tracer**.
+
+## 🛠️ Features
+- 🖧 VLANs & subnetting  
+- 🔄 Routing (static & dynamic)  
+- 💡 DHCP setup  
+- 🔒 Basic network security  
+
+## 🎯 Goal
+Learn & practice Cisco networking commands! 💻✨
